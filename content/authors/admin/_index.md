@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: César Villacura-Herrera
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: MSc. Social Psychology & Research Methods
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Research Center on Cognitive Sciences
+  url: https://www.cicc.utalca.cl/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
