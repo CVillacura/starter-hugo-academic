@@ -6,11 +6,11 @@ title: César Villacura-Herrera
 superuser: true
 
 # Role/position/tagline
-role: MSc. Social Psychology & Research Methods
+role: MSc. in Social Psychology & Research Methods
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Research Center on Cognitive Sciences
+- name: Research Center on Cognitive Sciences, Universidad de Talca
   url: https://www.cicc.utalca.cl/
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,22 +18,19 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Psychometrics
+- Quantitative Methods
+- Behavioral Research
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc. in Social Psycholoy & Research Methods
+    institution: Universidad de Talca
+    year: 2020
+  - course: BSc. in Psychology
+    institution: Universidad de Talca
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
