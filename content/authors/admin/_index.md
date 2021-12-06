@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MSc. in Social Psycholoy & Research Methods
+  - course: MSc. in Social Psychology & Research Methods
     institution: Universidad de Talca
     year: 2020
   - course: BSc. in Psychology
